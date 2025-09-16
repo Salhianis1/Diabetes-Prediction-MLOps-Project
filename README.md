@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Made with ❤️ by [Aman Gupta](https://github.com/amangupta143)
+Made with ❤️ by [Salhi Anis](https://github.com/amangupta143)
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://amangupta.me)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
