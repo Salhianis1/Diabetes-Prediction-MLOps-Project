@@ -72,8 +72,8 @@ The project uses the Pima Indians Diabetes Database from Kaggle, which includes 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/amangupta143/Diabetes-Prediction-System.git
-   cd Diabetes-Prediction-System
+   git clone https://github.com/Salhianis1/Diabetes-Prediction-MLOps-Project.git
+   cd Diabetes-Prediction-MLOps-Project
    ```
 
 2. Install required dependencies:
