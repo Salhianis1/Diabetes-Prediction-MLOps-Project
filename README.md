@@ -1,6 +1,6 @@
 # Diabetes Prediction System
 
-![Diabetes Prediction System](./static/readme-img.jpeg)
+<!--![Diabetes Prediction System](./static/readme-img.jpeg) -->
 
 A machine learning-powered web application that predicts diabetes risk based on health metrics with high accuracy.
 
@@ -130,8 +130,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Made with ❤️ by [Salhi Anis](https://github.com/amangupta143)
+Made with ❤️ by [Salhi Anis](https://github.com/Salhianis1)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://amangupta.me)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Salhianis1)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anis-salhi-4ab324229/)
